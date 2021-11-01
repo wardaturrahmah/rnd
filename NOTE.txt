@@ -1,0 +1,16 @@
+nama_seas diganti nama_sweet untuk mos_sweet
+login_seas diganti login_sweet untuk mos_sweet
+group_seas diganti group_sweet untuk mos_sweet
+id_seas diganti id_sweet untuk mos_sweet
+realname_seas diganti realname_sweet untuk mos_sweet
+group_produk_seas diganti group_produk_sweet untuk mos_sweet
+group_menu_seas diganti group_menu_sweet untuk mos_sweet
+
+
+nama_seas diganti nama_kopi untuk mos_kopi
+login_seas diganti login_kopi untuk mos_kopi
+group_seas diganti group_kopi untuk mos_kopi
+id_seas diganti id_kopi untuk mos_kopi
+realname_seas diganti realname_kopi untuk mos_kopi
+group_produk_seas diganti group_produk_kopi untuk mos_kopi
+group_menu_seas diganti group_menu_kopi untuk mos_kopi
